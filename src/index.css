@@ -59,6 +59,13 @@ header p span {
   color: rgb(155, 0, 0);
   border-radius: 3px;
 }
+
+.producto h5 span.visible{
+  background-color: transparent;  
+  font-weight: bold;
+  color: black;  
+}
+
 .producto button{
   padding: 5px;
   text-transform: uppercase;
